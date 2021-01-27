@@ -1,4 +1,4 @@
-# telescope-node-module.nvim
+# telescope-node-modules.nvim
 
 `telescope-node-modules` is an extension for [telescope.nvim][] that provides its users with node packages under `node_modules/` dir.
 
