@@ -43,5 +43,5 @@ Default value: `vim.fn.getcwd()`
 ## TODO
 
 * [ ] Asynchronous directory reading
-* [ ] Show dependency levels of packages
+* [x] Show dependency levels of packages
 * [ ] More info from `package.json`
