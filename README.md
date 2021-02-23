@@ -26,11 +26,12 @@ use{
 
 List packages under `node_modules` of the current directory. In default, it does actions below when you input keys.
 
-| key              | action               |
-|------------------|----------------------|
-| `<CR>` (edit)    | `builtin.find_files` |
-| `<C-x>` (split)  | `:chdir` to the dir  |
-| `<C-v>` (vsplit) | `:lchdir` to the dir |
+| key               | action               |
+|-------------------|----------------------|
+| `<CR>` (edit)     | `builtin.find_files` |
+| `<C-x>` (split)   | `:chdir` to the dir  |
+| `<C-v>` (vsplit)  | `:lchdir` to the dir |
+| `<C-t>` (tabedit) | `:tchdir` to the dir |
 
 #### options
 
